@@ -1,0 +1,10 @@
+export default function About() {
+  return (
+    <section className="py-20 text-center">
+      <h2 className="text-3xl font-bold">About Me</h2>
+      <p className="mt-4 text-lg max-w-2xl mx-auto">
+        I am a Web Deployer, Graphic Designer, and Developer passionate about building great experiences.
+      </p>
+    </section>
+  );
+}
